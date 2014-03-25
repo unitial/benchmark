@@ -1,4 +1,4 @@
 benchmark
 =========
 
-Some benchmark I use
+Some benchmark I use.
